@@ -1,4 +1,4 @@
-2020/9/14
+2020/9/14\n
 This is starsdy's code repository! 
 I use it to record my postgraduate studies. 
 My rearch direction are mainly bioinformatics. 
